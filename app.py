@@ -9,3 +9,5 @@ idade_tres = 30.5
 print(type(idade))
 print(type(idade_dois))
 print(type(idade_tres))
+
+print("Finalizando primeira semana")
