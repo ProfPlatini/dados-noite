@@ -1,4 +1,4 @@
-# 📊 dados-noite
+# 📊 Fundamentos de IA e Análise de Dados
 
 Repositório pessoal criado para acompanhar o curso **Fundamentos de IA e Análise de Dados**, com estudos práticos em Python, análise de dados e visão computacional.
 
