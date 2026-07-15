@@ -66,7 +66,3 @@ Aqui estão reunidos os notebooks, scripts e bases de dados usados ao longo das 
 ## ✅ Boas práticas
 
 Os códigos seguem a proposta de **clean code** e estão adequados ao padrão **PEP 8**.
-
-## 👤 Autor
-
-Fork mantido por [breno209](https://github.com/breno209), baseado no material original do professor **Platini**.
